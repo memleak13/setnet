@@ -1,0 +1,6 @@
+conf t
+vlan 65
+name FTTX-CPE-VOD
+exit
+exit
+exit
